@@ -1,1 +1,1 @@
-- Teste first commit to churrascometro
+- Test first commit to churrascometro
